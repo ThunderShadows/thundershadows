@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thundershadows&label=Profile%20views&color=0e75b6&style=flat" alt="thundershadows" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cosmicwrangler" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicwrangler?logo=twitter&style=for-the-badge" alt="cosmicwrangler" /></a> </p>
+<p align="left"> <a href="https://x.com/SGSUMANTH1" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicwrangler?logo=twitter&style=for-the-badge" alt="cosmicwrangler" /></a> </p>
 
 - 🔭 I’m currently working on [SocialSync](https://github.com/ThunderShadows/SocialSync)
 
