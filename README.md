@@ -12,15 +12,17 @@
 
 - 🌱 I’m currently learning **Python, SQL, Java, MERN Stack, R, Data Analytics & Visualizations**
 
-- 👯 I’m looking to collaborate on **Tedious Journey**
+- 👯 I’m looking to collaborate on [AI_Text_Summarizer_App](https://github.com/ThunderShadows/AI_Text_Summarizer_App)
 
-- 🤝 I’m looking for help with **Oxygen Saturation Level In Blood**
+- 🤝 I’m looking for help with [Sentiment Analysis Using Python](https://github.com/ThunderShadows/Sentiment_Analysis_Python)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThunderShadows?tab=repositories](https://github.com/ThunderShadows?tab=repositories)
 
-- 📝 I regularly write articles on [https://dev.to/s_gsumanth_e9344b154638d](https://dev.to/s_gsumanth_e9344b154638d)
+- 📝 I write articles on [https://dev.to/s_gsumanth_e9344b154638d](https://dev.to/s_gsumanth_e9344b154638d)
 
 - 💬 Ask me about **Project Management, Rapport building, Web Development{Bootstrap & JavaScript}**
+
+- :busts_in_silhouette: Connect with me on [LinkedIn](www.linkedin.com/in/s-g-sumanth-b8a969277)
 
 - 📫 How to reach me **sumanthusha01@gmail.com**
 
