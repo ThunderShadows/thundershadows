@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Project Management, Rapport building, Web Development{Bootstrap & JavaScript}**
 
-- :busts_in_silhouette: Connect with me on [LinkedIn](www.linkedin.com/in/s-g-sumanth-b8a969277)
+- :busts_in_silhouette: Connect with me on [LinkedIn](https://linkedin.com/in/s-g-sumanth-b8a969277)
 
 - 📫 How to reach me **sumanthusha01@gmail.com**
 
