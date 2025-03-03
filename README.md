@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sumanthusha01@gmail.com**
 
-- ⚡ Fun fact **As long as I live, there are infinite chances to win!**
+- ⚡ Not exactly motivation but a form of self-discipline **As long as I live, there are infinite chances to win!**
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
