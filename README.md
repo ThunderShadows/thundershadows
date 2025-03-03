@@ -8,25 +8,17 @@
 
 <p align="left"> <a href="https://x.com/SGSUMANTH1" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicwrangler?logo=twitter&style=for-the-badge" alt="cosmicwrangler" /></a> </p>
 
-- 🔭 I’m currently working on [SocialSync](https://github.com/ThunderShadows/SocialSync)
-
 - 🌱 I’m currently learning **Python, SQL, Java, MERN Stack, R, Data Analytics & Visualizations**
 
-- 👯 I’m looking to collaborate on [AI_Text_Summarizer_App](https://github.com/ThunderShadows/AI_Text_Summarizer_App)
-
-- 🤝 I’m looking for help with [Sentiment Analysis Using Python](https://github.com/ThunderShadows/Sentiment_Analysis_Python)
-
+- 👯 I’m looking to collaborate on [SocialSync](https://github.com/ThunderShadows/SocialSync)
+  
 - 👨‍💻 All of my projects are available at [https://github.com/ThunderShadows?tab=repositories](https://github.com/ThunderShadows?tab=repositories)
-
-- 📝 I write articles on [https://dev.to/s_gsumanth_e9344b154638d](https://dev.to/s_gsumanth_e9344b154638d)
-
-- 💬 Ask me about **Project Management, Rapport building, Web Development{Bootstrap & JavaScript}**
 
 - :busts_in_silhouette: Connect with me on [LinkedIn](https://linkedin.com/in/s-g-sumanth-b8a969277)
 
 - 📫 How to reach me **sumanthusha01@gmail.com**
 
-- ⚡ Fun fact **When I’m not coding, I'm strategizing how to get aliens to join my team’s intergalactic hackathon!🌌💻👽**
+- ⚡ Fun fact **As long as I live, there are infinite chances to win!**
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
