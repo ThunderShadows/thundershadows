@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sumanthusha01@gmail.com**
 
-- ⚡ Not exactly motivation but a form of self-discipline **As long as I live, there are infinite chances to win!**
+- ⚡ Motto that keeps me going everyday- **As long as I live, there are infinite chances to win!**
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
